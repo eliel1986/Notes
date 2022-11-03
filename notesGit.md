@@ -15,4 +15,5 @@ git clone (endereço do repositório) (clona repositório)
 
 rm -rf .git (remove pasta oculta do git em uma pasta local)
 
-git pull origin main (recebe arquivo)
+
+git pull origin master (recebe arquivo)
