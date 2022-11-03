@@ -1,20 +1,32 @@
 
 # ATALHOS TERMINAL #
 
-pwd (mostra diretório atual)
+pwd 
+(mostra diretório atual)
 
-ls (lista conteúdo da pasta)
+ls
+(lista conteúdo da pasta)
 
-cd (abre diretório)
+ls -la
+(lista conteúdo da pasta incluindo arquivos ocultos)
 
-mkdir (cria diretório)
+cd 
+(abre diretório)
 
-mv (move arquivos/diretórios)
+mkdir 
+(cria diretório)
 
-rm (remover)
+mv 
+(move arquivos/diretórios)
 
-clear (limpar terminal)
+rm 
+(remover)
 
-rs (restart servidor)
+clear 
+(limpar terminal)
 
-code . (abre pelo terminal pasta desejada)
+rs 
+restart servidor)
+
+code . 
+(abre pelo terminal pasta desejada)
