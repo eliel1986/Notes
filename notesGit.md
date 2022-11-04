@@ -11,18 +11,27 @@ git commit -m ""
 (descrição da atualização)
 
 git remote add origin 
-(link do repositório) (endereço para sincronizar projeto)
+(link do repositório remoto) (endereço para sincronizar projeto)
 
 git push origin master 
 (enviar arquivo)
 
 git clone 
-(endereço do repositório) (clona repositório)
+(endereço do repositório remoto) (clona repositório remoto)
 
 rm -rf .git 
 (remove pasta oculta do git em uma pasta local)
 
 git pull origin master 
-(recebe arquivo
+(atualiza repositório local)
+
+git checkout exemplo
+(troca para branch exemplo)
+
+git branch -D exemplo
+(exclui a branch exemplo)
+
+git checkout -b exemplo
+(cria e já troca para branch exemplo)
 
 
